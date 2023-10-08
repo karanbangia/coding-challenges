@@ -1,0 +1,10 @@
+{
+  "key": "value",
+  "key-n": 101,
+  "keyo": {
+    "innerkey": "innervalue",
+    "inner key1": "inner value"
+  },
+  "key-l": ['list value']
+}
+
